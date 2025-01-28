@@ -32,5 +32,5 @@ python main.py
 ## Future Enhancements
 Improve model accuracy using deep learning
 Integrate gesture recognition
-Optimize real-time processing for performance
+Optimize real-time processing for performance.
 
