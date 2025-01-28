@@ -17,12 +17,20 @@ This Python application utilizes camera input to train a **Support Vector Machin
 - `__init__.py` - Package initialization  
 - `README.md` - Project documentation  
 
-## Requirements  
-To install dependencies, run:  
+## Requirements
+To install dependencies, run:
 ```bash
 pip install -r requirements.txt
+```
+
+## Usage
+Execute the application with:
+```bash
+python main.py
+```
 
 ## Future Enhancements
 Improve model accuracy using deep learning
 Integrate gesture recognition
 Optimize real-time processing for performance
+
